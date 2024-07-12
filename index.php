@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container">
-        <h2>Contact Form</h2>
+        <h2>You have successfully deployed the application using CODE_PIPELINE</h2>
         
         <?php
         // Initialize variables
